@@ -40,7 +40,7 @@
         </a>
       </th>
       <th>
-<a href="https://github.com/chorongs"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnjfht&layout=compact&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/dnjfht"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnjfht&layout=compact&theme=radical&hide_border=true" /></a>
       </th>
     </tr>
   </thead>
