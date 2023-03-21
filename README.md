@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&section=header&text=YooSeungmin&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&section=header&text=YooSeungmin&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=25)
 
 </div>
 
