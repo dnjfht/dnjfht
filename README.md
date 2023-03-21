@@ -2,7 +2,6 @@
 
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=7cbf9e&height=280&section=header&text=YooSeungmin&fontColor=2a2828&fontSize=80&animation=fadeIn&fontAlignY=40)
 
-<br/>
  <br/>
   
 ####  :clipboard: Once I've Used 
