@@ -48,7 +48,9 @@
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dnjfht&theme=radical)](https://git.io/streak-stats)
+#### 🔥🔥🔥 : Github Readme Strak Status
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=dnjfht&theme=radical&hide_border=true)](https://git.io/streak-stats)
   
 </div>
 
