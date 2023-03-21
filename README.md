@@ -45,6 +45,10 @@
     </tr>
   </thead>
 </table>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=dnjfht&theme=radical)](https://git.io/streak-stats)
   
 </div>
 
