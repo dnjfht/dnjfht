@@ -20,15 +20,26 @@
 <img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 
 
-
-
  
    <br/>
    <br/>
  
-  <br/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnjfht&layout=compact)](https://github.com/dnjfht/github-readme-stats)
+  #### :pencil2: Study log
+
+<table>
+  <thead>
+    <tr>
+      <th>
+<a href="https://github.com/dnjfht"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=dnjfht&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="YooSeungmin's github stats" /></a>
+        </a>
+      </th>
+      <th>
+<a href="https://github.com/chorongs"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnjfht&layout=compact&theme=nord&hide_border=true" /></a>
+      </th>
+    </tr>
+  </thead>
+</table>
   
 </div>
 
