@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Yoo Seungmin)
 
 <!--
 **dnjfht/dnjfht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
