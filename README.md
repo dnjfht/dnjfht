@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Firebase-3776AB?style=for-the-badge&logo=Firebase&logoColor=white">
   <br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-6DB33F?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind CSS-3776AB?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
 <img src="https://img.shields.io/badge/styled-components-3776AB?style=for-the-badge&logo=styled-components&logoColor=white">
  
