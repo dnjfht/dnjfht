@@ -58,12 +58,12 @@
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dnjfht&theme=radical&hide_border=true)](https://git.io/streak-stats)
-  
-</div>
-
+ 
 #### 🔥🔥🔥 : Coding Test with BAEKJOON
 
 <br/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/dnjfht/)
+
+</div>
 
