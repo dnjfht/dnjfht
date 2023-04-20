@@ -44,7 +44,7 @@
         </a>
       </th>
       <th>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dnjfht"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnjfht&layout=compact&theme=radical&hide_border=true" /></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dnjfht"><img align="center" style="height:180px" src="https://github-readme-stats-two-coral-78.vercel.app/api/top-langs/?username=dnjfht&layout=compact&theme=radical&hide_border=true" /></a>
       </th>
     </tr>
   </thead>
