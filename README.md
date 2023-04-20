@@ -40,6 +40,8 @@
   <thead>
     <tr>
       <th>
+        [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnjfht)](https://github.com/dnjfht/github-readme-stats)
+        
 <a href="https://github-readme-stats.vercel.app/api?username=dnjfht"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=dnjfht&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="YooSeungmin's github stats" /></a>
         </a>
       </th>
