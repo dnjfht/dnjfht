@@ -50,6 +50,8 @@
   </thead>
 </table>
 
+[![wakatime](https://wakatime.com/badge/user/8ca89e4c-f118-443c-8d60-af34cd3a0322.svg)](https://wakatime.com/@8ca89e4c-f118-443c-8d60-af34cd3a0322)
+
 <br/>
 <br/>
 
