@@ -40,10 +40,10 @@
   <thead>
     <tr>
       <th>
-        <a href="https://github.com/dnjfht"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=dnjfht&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="YooSeungmin's github stats" /></a>
+        <a href="https://github-readme-stats.vercel.app/api?username=dnjfht"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=dnjfht&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="YooSeungmin's github stats" /></a>
       </th>
       <th>
-        <a href="https://github.com/dnjfht"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnjfht&layout=compact&theme=radical&hide_border=true" /></a>
+        <a href="https://github-readme-stats.vercel.app/api?username=dnjfht"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnjfht&layout=compact&theme=radical&hide_border=true" /></a>
       </th>
     </tr>
   </thead>
