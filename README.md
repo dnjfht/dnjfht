@@ -20,12 +20,15 @@
 <img src="https://img.shields.io/badge/React-6DB33F?style=for-the-badge&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Redux-E34F26?style=for-the-badge&logo=Redux&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-3776AB?style=for-the-badge&logo=Firebase&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <br/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white">
   <br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-6DB33F?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind CSS-F7DF1E?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
 <img src="https://img.shields.io/badge/styled-components-3776AB?style=for-the-badge&logo=styled-components&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=white">
  
 <img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 
